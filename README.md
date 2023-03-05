@@ -3,7 +3,7 @@
 Supabase is an open source Firebase alternative providing all the backend features you need to build a product.
 In this flutter app, I have implemented email-password,facebook,github,phone authentication and Supabase database.
 
-![Supabase_logo](https://bitbucket.org/rutu31/supabase/raw/2db18584db102926cfab15d1aa5a23648471c1d6/screenshot/supabase.png)
+![Supabase_logo](https://github.com/rp3110/supabase/blob/main/screenshot/supabase.png)
 
 - Flutter App
 - Supabase
